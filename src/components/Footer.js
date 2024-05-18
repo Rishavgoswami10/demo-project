@@ -16,6 +16,7 @@ const Footer = () => {
       <Container maxWidth="lg">
         <Typography variant="body2" align="center">
           &copy; 2024 Anotech Solutions Pvt.&nbsp;Ltd. All the rights are reserved  
+          when i say it i mean it.
         </Typography>
         <Box
           sx={{
